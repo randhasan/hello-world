@@ -1,2 +1,2 @@
 # hello-world
-This is my repository for my Big Ideas lab.
+This is my repository for my Big Ideas lab.  In it, you can find a simpleprogram.py file that I created which asks the user for their first and last name and then prints the two.  Unfortunately, I wasn't able to make it to lab and couldn't get a group so I really hope it's okay that I did this alone.  I don't know anyone in the class and usually just work with whoever I'm sitting with.  
