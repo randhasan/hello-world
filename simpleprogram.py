@@ -1,3 +1,4 @@
-fname = input("Please enter your first name: ")
-lname = input("Please enter your last name: ")
-print("Hi "+fname+" "+lname)
+name = input("Please enter your name: ")
+number = input("Please enter a number: ")
+for i in range(int(number)):
+  print name;
